@@ -33,7 +33,9 @@ I am building this project to help college students track their job applications
 2.Navigate to the Project Directory
 
     cd Job-Application-Tracker
+2.Navigate to the Project Directory
 
+    cd Job-Application-Tracker
 
 
      
