@@ -1,5 +1,13 @@
-# Job-Application-Tracker
-A full-stack application built with the MERN stack (MongoDB, Express, React, Node.js) to help users manage and track job applications.
+# Title
+Job-application-tracker
+
+# Description
+A full-stack MERN application (MongoDB, Express, React, Node.js) designed to help users organize, track, and manage their job applications effectively.
+
+
+# Motivation
+I am building this project to help college students track their job applications, ensuring they have a record of where they've applied. The application will also send reminders before interview times, helping users prepare and stay on schedule. By providing an organized platform, this project aims to assist users in managing their job search process and performance more effectively.
+
 
 # Features
 
