@@ -34,24 +34,28 @@ I am building this project to help college students track their job applications
 2.Navigate to the Project Directory
 
     cd Job-Application-Tracker
-4.Configure environment variables in .env(e.g., database URL, API keys).     
-5.Install backend dependencies 
+3.Configure environment variables in .env(e.g., database URL, API keys).     
+4.Install backend dependencies 
 
     cd server
     npm install
- 6.Install frontend dependencies 
+ 5.Install frontend dependencies 
 
     cd ../client
     npm install   
- 7.Start the backend server 
+ 6.Start the backend server 
 
     cd ../server
     nodemon start   
- 8.Start the frontend server 
+ 7.Start the frontend server 
 
     cd ../client
     npm run dev    
+ 8.Open your browser and go to http://localhost:5173 to view the application
 
+   
+This format makes each step clear and easy to follow, with all the necessary commands in place. Great job on the setup instructions!
+ 
 
      
 
