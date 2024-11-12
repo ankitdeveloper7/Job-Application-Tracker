@@ -55,7 +55,18 @@ I am building this project to help college students track their job applications
 
    
 This format makes each step clear and easy to follow, with all the necessary commands in place. Great job on the setup instructions!
- 
+
+
+# Usage Guide
+
+* **Update User Profile**: Allows users to edit and update their personal details, such as name, contact information, and other relevant profile information.
+
+* **Add a New Job Application**: Users can log new job applications by entering details such as the company name, job title, application date, and additional notes.
+
+* **Update Application Status**: Track the progress of each application by updating its status (e.g., Applied, Interview Scheduled, Offer Received).
+
+* **Delete an Application Entry**: Remove an application from the tracker once it's no longer relevant, helping keep the list organized.
+
 
      
 
