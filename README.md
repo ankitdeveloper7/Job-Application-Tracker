@@ -28,14 +28,29 @@ I am building this project to help college students track their job applications
 
 # Setup Instructions
 1.Clone the Repository
+
    https://github.com/ankitdeveloper7/Job-Application-Tracker.git
    
 2.Navigate to the Project Directory
 
     cd Job-Application-Tracker
-2.Install dependencies with 
+4.Configure environment variables in .env(e.g., database URL, API keys).     
+5.Install backend dependencies 
 
+    cd server
     npm install
+ 6.Install frontend dependencies 
+
+    cd ../client
+    npm install   
+ 7.Start the backend server 
+
+    cd ../server
+    nodemon start   
+ 8.Start the frontend server 
+
+    cd ../client
+    npm run dev    
 
 
      
