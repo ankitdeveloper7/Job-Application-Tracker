@@ -67,6 +67,13 @@ This format makes each step clear and easy to follow, with all the necessary com
 
 * **Delete an Application Entry**: Remove an application from the tracker once it's no longer relevant, helping keep the list organized.
 
+* **Upload or Write Documents**: Users can upload documents like resumes and cover letters for each job application, or add custom notes for reference. This feature helps keep all necessary materials accessible in one place.
+
+* **Save Contacts**: Store contact information for recruiters or company representatives. This feature can include fields for names, phone numbers, email addresses, and notes to streamline follow-ups and communications.
+
+* **Set Interview Reminders**: Option to set reminders for upcoming interviews or follow-up dates, helping users stay on track without missing critical deadlines.
+
+
 
      
 
